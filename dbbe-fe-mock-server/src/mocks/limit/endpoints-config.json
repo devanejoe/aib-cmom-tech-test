@@ -1,0 +1,63 @@
+{
+	"name": "Limits",
+	"endpoints": [{
+		"title": "Limits Retrieval",
+		"id": "limits-retrieval",
+		"url": "limits/retrieval",
+		"methods": {
+			"POST": {
+				"200": "limits-retrieval/POST/200.json",
+        "400": "limits-retrieval/POST/400.json",
+        "401": "limits-retrieval/POST/401.json"
+			}
+		}
+	}, {
+    "title": "Create Limit",
+    "id": "create-limits",
+    "url": "limits",
+    "methods": {
+      "POST": {
+        "200": "create-limits/POST/200.json",
+        "400": "create-limits/POST/400.json"
+      }
+    }
+  }, {
+    "title": "Update Limit",
+    "id": "update-limits",
+    "url": "limits/1234-5678-9101-1121",
+    "methods": {
+      "PUT": {
+        "200": "update-limits/PUT/200.json",
+        "400": "update-limits/PUT/400.json",
+        "401": "update-limits/PUT/401.json"
+      }
+    }
+  }, {
+    "title": "Limits Currency",
+    "id": "limits-currency",
+    "url": "limits/currency",
+    "methods": {
+      "GET": {
+        "200": "limits-currency/GET/200.json"
+      }
+    }
+  }, {
+    "title": "Limits Periods",
+    "id": "limits-periods",
+    "url": "limits/periods",
+    "methods": {
+      "GET": {
+        "200": "limits-periods/GET/200.json"
+      }
+    }
+  }, {
+    "title": "Limits Consumptions",
+    "id": "limits-consumptions",
+    "url": "limits/consumptions",
+    "methods": {
+      "POST": {
+        "200": "limits-consumptions/POST/200.json"
+      }
+    }
+  }]
+}

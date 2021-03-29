@@ -1,0 +1,76 @@
+{
+  "name":"Australia",
+  "code":"AU",
+  "currency":"AUD",
+  "reachability":[
+
+  ],
+  "iban":{
+    "supported":false,
+    "required":false
+  },
+  "accountNumber":{
+    "supported":true,
+    "mandatoryForDomesticCurrency":true
+  },
+  "bankcode":{
+    "supported":true,
+    "mandatoryForDomesticCurrency":true
+  },
+  "bic":{
+    "required":false,
+    "unsupportedWhenAccountNumber":false
+  },
+  "formatting":[
+    {
+      "fieldId":"name",
+      "fieldLabel":"Name",
+      "validation":"(?=^.{0,35}$)([A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*[A-Za-z0-9]+[A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*)"
+    },
+    {
+      "fieldId":"reference",
+      "fieldLabel":"Message for payee (optional)",
+      "validation":"^[A-Za-z0-9 \\/\\?\\(\\)\\.,\\-'\\+]{0,18}$"
+    },
+    {
+      "fieldId":"accountHolderStreetName",
+      "fieldLabel":"Street name",
+      "validation":"(?=^.{0,35}$)([A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*[A-Za-z0-9]+[A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*)"
+    },
+    {
+      "fieldId":"accountHolderAddressLine1",
+      "fieldLabel":"Address line 1",
+      "validation":"(?=^.{0,35}$)([A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*[A-Za-z0-9]+[A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*)"
+    },
+    {
+      "fieldId":"accountHolderAddressLine2",
+      "fieldLabel":"Address line 2",
+      "validation":"(?=^.{0,35}$)([A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*[A-Za-z0-9]+[A-Za-z0-9\\/\\?\\(\\)\\.,\\-'\\+ ]*)"
+    },
+    {
+      "fieldId":"accountHolderPostCode",
+      "fieldLabel":"Postal code",
+      "validation":"^[A-Za-z0-9 \\-']{0,12}$"
+    },
+    {
+      "fieldId":"iban",
+      "fieldLabel":"IBAN",
+      "validation":"[a-zA-Z]{2}[0-9]{2}[a-zA-Z0-9]{4}[0-9]{7}([a-zA-Z0-9]?){0,16}"
+    },
+    {
+      "fieldId":"bic",
+      "fieldLabel":"BIC",
+      "validation":"([a-zA-Z]{4})([a-zA-Z]{2})(([2-9a-zA-Z]{1})([0-9a-np-zA-NP-Z]{1}))((([0-9a-wy-zA-WY-Z]{1})([0-9a-zA-Z]{2}))|([xX]{3})|)"
+    },
+    {
+      "fieldId":"accountNumber",
+      "fieldLabel":"Account number",
+      "validation":"^([0-9]){5,9}$"
+    },
+    {
+      "fieldId":"bankCode",
+      "fieldLabel":"BSB code",
+      "validation":"^([0-9]){6,6}$"
+    }
+  ]
+}

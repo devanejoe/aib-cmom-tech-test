@@ -1,0 +1,8 @@
+{
+  "status": 200,
+  "data": {
+    "managementId": "874652c4-bf0b-4850-876d-218230b7a5d5",
+    "approvalStatus": "APPROVED",
+    "notificationIds": [ "4c4f5089-c99d-49e1-a699-ea954186de19" ]
+  }
+}

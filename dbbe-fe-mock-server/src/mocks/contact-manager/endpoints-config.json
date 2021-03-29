@@ -1,0 +1,112 @@
+{
+	"name": "Contacts Manager",
+	"endpoints": [{
+		"title": "Contacts",
+		"id": "contacts",
+		"url": "contacts",
+		"methods": {
+			"GET": {
+				"200": "contacts/GET/200.json",
+				"400": "contacts/GET/200.json",
+				"500": "contacts/GET/200.json"
+			},
+			"PUT": {
+				"200": "contacts/PUT/200.json",
+				"400": "contacts/put/400.json",
+				"401": "contacts/PUT/401.json"
+			},
+			"POST": {
+				"200": "contacts/POST/200.json",
+				"202": "contacts/POST/202.json",
+				"400": "contacts/POST/400.json",
+				"401": "contacts/POST/401.json",
+				"403": "contacts/POST/403.json",
+				"500": "contacts/POST/401.json"
+			}
+		}
+	}, {
+		"title": "Contacts Query",
+		"id": "contacts",
+		"url": "contacts?from=0&query=123&size=50",
+		"methods": {
+			"GET": {
+				"200": "contacts/GET/200_search.json"
+			}
+		}
+	},{
+			"title": "Contacts By ID",
+			"id": "contacts",
+			"url": "contacts/5cd3b519-2ee2-44c1-8af4-b01ab236e610",
+			"methods": {
+				"PUT": {
+					"200": "contacts/PUT/200.json",
+					"404": "contacts/PATCH/404.json",
+					"400": "contacts/put/400.json",
+					"401": "contacts/PUT/401.json",
+					"500": "contacts/PUT/401.json"
+				},
+				"DELETE": {
+					"200": "contacts/DELETE/200.json",
+					"400": "contacts/DELETE/200.json"
+				}
+			}
+		}, {
+		"title": "Delete Contacts",
+		"id": "contacts",
+		"url": "contacts/9203cb0a-42a7-4819-a938-97f207ea5100",
+		"methods": {
+			"DELETE": {
+				"200": "contacts/DELETE/200.json"
+			}
+		}
+	}, {
+		"title": "Contacts Approvals(Me)",
+		"id": "contacts",
+		"url": "approvals/me",
+		"methods": {
+			"GET": {
+				"200": "approvals/GET/200.json"
+			}
+		}
+	},
+	{
+		"title": "approvalRecords",
+		"id": "approvalRecords",
+		"url": "approvals/6de810c7-6176-47fd-aa13-617c3e083c87/approvalRecords",
+		"methods": {
+			"POST": {
+				"401": "approvals/POST/401.json",
+				"200": "approvals/POST/200.json"
+			}
+		}
+	},
+      {
+        "title": "rejectionRecords",
+        "id": "rejectionRecords",
+        "url": "approvals/6de810c7-6176-47fd-aa13-617c3e083c87/rejectionRecords",
+        "methods": {
+          "POST": {
+            "401": "approvals/POST/401.json",
+            "200": "approvals/POST/200.json"
+          }
+        }
+      },{
+		"title": "Contacts",
+		"id": "contacts",
+		"url": "approvals",
+		"methods": {
+			"GET": {
+				"200": "approvals/GET/200_approvals.json"
+			}
+		}
+	},{
+		"title": "Contacts",
+		"id": "contacts",
+		"url": "approvals/90b8dfb8-4a16-4e33-8d03-9f1669de3c00",
+		"methods": {
+			"DELETE": {
+				"200": "approvals/GET/200.json"
+			}
+		}
+	}]
+}

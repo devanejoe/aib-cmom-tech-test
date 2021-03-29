@@ -1,0 +1,14 @@
+{
+	"creatorLegalEntity": "8ab2b958605b432f01605b443e430001",
+	"status": "ENABLED",
+	"numberOfParticipants": 1,
+	"creatorLegalEntityName": "AIB",
+	"id": "8ab2b958605b432f01605b443e5b0002",
+	"externalId": "1000",
+	"name": "AIB",
+	"description": "Master Service Agreement",
+  "isMaster": true,
+	"additions": {
+		"jurisdiction": "ROI"
+	}
+}

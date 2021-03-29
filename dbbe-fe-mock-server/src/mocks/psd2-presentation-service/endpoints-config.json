@@ -1,0 +1,15 @@
+{
+  "name": "Psd2 Service",
+  "endpoints": [
+    {
+      "title": "TPP",
+      "id": "tpp",
+      "url": "aibpsd2/tpp",
+      "methods": {
+        "GET": {
+          "200": "tpp/GET/200.json"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "approvalTypes": [
+    {
+      "id": "02de5a58-0913-44ad-9dd3-d7b071299754",
+      "name": "Standard Approver",
+      "description": "This approval type relates to workflow",
+      "rank": 50
+    }
+  ]
+}

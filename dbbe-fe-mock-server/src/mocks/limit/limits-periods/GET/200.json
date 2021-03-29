@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DAILY"
+  },
+  {
+    "name": "WEEKLY"
+  },
+  {
+    "name": "MONTHLY"
+  },
+  {
+    "name": "QUARTERLY"
+  },
+  {
+    "name": "TRIMESTER"
+  },
+  {
+    "name": "YEARLY"
+  }
+]

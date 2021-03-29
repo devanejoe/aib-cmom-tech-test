@@ -1,0 +1,140 @@
+{
+  "isIntraLegalEntityPaymentOrder": false,
+  "debtor": {
+    "name": "DECIMAL JOES",
+    "role": "DEBTOR",
+    "postalAddress": {
+      "addressLine1": "p",
+      "addressLine2": "p",
+      "streetName": "p"
+    }
+  },
+  "originator": {
+    "name": "DECIMAL JOES",
+    "role": "DEBTOR",
+    "postalAddress": {
+      "addressLine1": "p",
+      "addressLine2": "p",
+      "streetName": "p"
+    }
+  },
+  "debtorAccount": {
+    "identification": {
+      "identification": "IE86AIBK93110100001556",
+      "schemeName": "IBAN"
+    },
+    "arrangementId": "8ab2b958619e464b0161b34f8ca32928",
+    "externalArrangementId": "IE86AIBK93110100001556|931101|00001556|BB"
+  },
+  "originatorAccount": {
+    "name": "ALIAS",
+    "identification": {
+      "identification": "IE86AIBK93110100001556",
+      "schemeName": "IBAN"
+    },
+    "arrangementId": "8ab2b958619e464b0161b34f8ca32928",
+    "externalArrangementId": "IE86AIBK93110100001556|931101|00001556|BB"
+  },
+  "batchBooking": false,
+  "instructionPriority": "NORM",
+  "requestedExecutionDate": "2021-02-04",
+  "paymentMode": "SINGLE",
+  "paymentType": "SEPA_ILE",
+  "creditTransferTransactionInformation": [
+    {
+      "counterparty": {
+        "name": "ORBIT T",
+        "role": "CREDITOR"
+      },
+      "counterpartyAccount": {
+        "identification": {
+          "identification": "IE28AIBK93110100001630",
+          "schemeName": "IBAN"
+        },
+        "arrangementId": "8ab2b958619e464b0161b34f8b6d291a",
+        "externalArrangementId": "IE28AIBK93110100001630|931101|00001630|BB"
+      },
+      "instructedAmount": {
+        "amount": "100.00",
+        "currencyCode": "EUR"
+      },
+      "creditor": {
+        "name": "ORBIT T",
+        "role": "CREDITOR"
+      },
+      "creditorAccount": {
+        "identification": {
+          "identification": "IE28AIBK93110100001630",
+          "schemeName": "IBAN"
+        },
+        "arrangementId": "8ab2b958619e464b0161b34f8b6d291a",
+        "externalArrangementId": "IE28AIBK93110100001630|931101|00001630|BB"
+      },
+      "targetCurrency": "EUR"
+    }
+  ],
+  "transferTransactionInformation": {
+    "counterparty": {
+      "name": "ORBIT T",
+      "role": "CREDITOR"
+    },
+    "counterpartyAccount": {
+      "identification": {
+        "identification": "IE28AIBK93110100001630",
+        "schemeName": "IBAN"
+      },
+      "arrangementId": "8ab2b958619e464b0161b34f8b6d291a",
+      "externalArrangementId": "IE28AIBK93110100001630|931101|00001630|BB"
+    },
+    "counterpartyBank": {
+      "name": "AIB",
+      "bic": "AXISINB002",
+      "bankBranchCode": "UTIB0000248",
+      "postalAddress": {
+        "country": "NL"
+      }
+    },
+    "instructedAmount": {
+      "amount": "2000.00",
+      "currencyCode": "USD"
+    },
+    "creditor": {
+      "name": "ORBIT T",
+      "role": "CREDITOR"
+    },
+    "creditorAccount": {
+      "identification": {
+        "identification": "IE28AIBK93110100001630",
+        "schemeName": "IBAN"
+      },
+      "arrangementId": "8ab2b958619e464b0161b34f8b6d291a",
+      "externalArrangementId": "IE28AIBK93110100001630|931101|00001630|BB"
+    },
+    "targetCurrency": "EUR"
+  },
+  "totalAmount": {
+    "amount": "100.00",
+    "currencyCode": "EUR"
+  },
+  "additions": {
+    "debitAccountCurrency": "USD",
+    "forwardContractRates": "[{\"refNo\": \"FCREF01\", \"amount\": 100, \"rate\": 1.13}, {\"refNo\": \"FCREF02\", \"amount\": 200, \"rate\": 1.12}, {\"refNo\": \"FCREF03\", \"amount\": 300, \"rate\": 1.15}]",
+    "jurisdiction": "ROI",
+    "payee": "IE28AIBK93110100001630",
+    "eprId": "0H40DKQW744WHJX1",
+    "privileges": "[\"edit\",\"approve\",\"create\",\"view\",\"cancel\",\"delete\"]",
+    "amount": "100.00",
+    "debitNarrative": "ORBIT T",
+    "creditNarrative": "EMTS Limit Co - 29",
+    "paymentOptionsMethod": "SEPA",
+    "paymentStatus": "ENTERED",
+    "chargeBearer": "Shared",
+    "debtorBic": "AIBKIE20",
+    "intraLegalEntityAddition": null,
+    "debtorAlias": "ORBIT T",
+    "creditorAlias": "DECIMAL JOES",
+    "chargeAmount": "0.00",
+    "chargeCurrency": "EUR",
+    "bic": "AIBKIE20"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "options": [
+    {
+      "paymentType": "SEPA",
+      "transferFee": {
+        "amount": "0.00",
+        "currencyCode": "EUR"
+      },
+      "chargeBearer": ["Shared"],
+      "executionTimeFrame": 1,
+      "instructionPriority": "NORM",
+      "cutOffTime": "16:00",
+      "additions": {
+        "paymentOptionsMethod": "SEPA"
+      }
+    },
+    {
+      "paymentType": "EURO_URGENT",
+      "transferFee": {
+        "amount": "15.29",
+        "currencyCode": "EUR"
+      },
+      "chargeBearer": ["Debtor", "Shared"],
+      "executionTimeFrame": 1,
+      "instructionPriority": "NORM",
+      "cutOffTime": "16:00",
+      "additions": {
+        "paymentOptionsMethod": "Euro Urgent"
+      }
+    }
+  ]
+}

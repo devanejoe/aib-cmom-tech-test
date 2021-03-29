@@ -1,0 +1,91 @@
+[  {
+      "id": "ae9f9fdd-f4ed-4a6e-bc19-9eeeb17395e7",
+      "sender": {
+          "name": "John Doe",
+          "id": "97234tyi23rfiy325r3i7r",
+          "deleted": false
+      },
+      "topic": {
+          "id": "b0069a89-3dcb-4bdc-b7da-fc65643064a6",
+          "name": "Savings",
+          "deleted": false
+      },
+      "body": "VG8gZ2l2ZSByZWFsIHNlcnZpY2UgeW91IG11c3QgYWRkIHNvbWV0aGluZyB3aGljaCBjYW5ub3QgYmUgYm91Z2h0IG9yIG1lYXN1cmVkIHdpdGggbW9uZXksIGFuZCB0aGF0IGlzIHNpbmNlcml0eSBhbmQgaW50ZWdyaXR5Cg==",
+      "subject": "Application Rejected",
+      "timestamp": "2017-10-02T10:51:30.275+0000",
+      "read-only": false,
+      "important": false,
+      "deletable": true,
+      "read": false,
+      "hasAttachments": true,
+      "assignee": {
+          "fullName": "John Snow",
+          "internalId": "1234-5678-9012-3456",
+          "isRequester": true
+      },
+      "client": {
+          "fullName": "John Doe",
+          "internalId": "97234tyi23rfiy325r3i7r"
+      }
+  },
+  {
+      "id": "ae9f9fdd-f4ed-4a6e-bc19-9eeeb17395c9",
+      "sender": {
+          "name": "John Snow",
+          "id": "97234tyi23rfiy325r3i8o",
+          "deleted": false
+      },
+      "topic": {
+          "id": "b0069a89-3dcb-4bdc-b7da-fc65643064b7",
+          "name": "Loan rejected",
+          "deleted": true
+      },
+      "body": "VG8gZ2l2ZSByZWFsIHNlcnZpY2UgeW91IG11c3QgYWRkIHNvbWV0aGluZyB3aGljaCBjYW5ub3QgYmUgYm91Z2h0IG9yIG1lYXN1cmVkIHdpdGggbW9uZXksIGFuZCB0aGF0IGlzIHNpbmNlcml0eSBhbmQgaW50ZWdyaXR5Cg==",
+      "subject": "Loan Rejected",
+      "timestamp": "2019-01-02T10:51:30.000+0000",
+      "read-only": false,
+      "important": false,
+      "deletable": true,
+      "read": true,
+      "hasAttachments": false,
+      "assignee": {
+          "fullName": "Ned Stark",
+          "internalId": "0987-6543-2109-8765",
+          "isRequester": false
+      },
+      "client": {
+          "fullName": "John Doe",
+          "internalId": "97234tyi23rfiy325r3i7r"
+      }
+  },
+  {
+      "id": "ae9f9fdd-f4ed-4a6e-bc19-9eeeb17395e7",
+      "sender": {
+          "name": "John Doe",
+          "id": "97234tyi23rfiy325r3i7r",
+          "deleted": false
+      },
+      "topic": {
+          "id": "b0069a89-3dcb-4bdc-b7da-fc65643064a6",
+          "name": "Savings",
+          "deleted": false
+      },
+      "body": "VG8gZ2l2ZSByZWFsIHNlcnZpY2UgeW91IG11c3QgYWRkIHNvbWV0aGluZyB3aGljaCBjYW5ub3QgYmUgYm91Z2h0IG9yIG1lYXN1cmVkIHdpdGggbW9uZXksIGFuZCB0aGF0IGlzIHNpbmNlcml0eSBhbmQgaW50ZWdyaXR5Cg==",
+      "subject": "Important Application",
+      "timestamp": "2017-10-02T10:51:30.000+0000",
+      "read-only": false,
+      "important": true,
+      "deletable": true,
+      "read": false,
+      "hasAttachments": false,
+      "assignee": {
+          "fullName": "John Snow",
+          "internalId": "1234-5678-9012-3456",
+          "isRequester": true
+      },
+      "client": {
+          "fullName": "John Doe",
+          "internalId": "97234tyi23rfiy325r3i7r"
+      }
+  }
+]

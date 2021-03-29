@@ -1,0 +1,79 @@
+[
+  {
+    "id": "8ad6818b66c46d930166c47c19e4002c",
+    "externalId": "ROIRE146",
+    "legalEntityId": "8ab2b958705865300170afc9480d16b1",
+    "fullName": "Tester",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b95860eb070501614c9906c748cb",
+    "externalId": "USERA767",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "User A",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b95864f03f2c0164f07f1c2c0001",
+    "externalId": "21621",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Aidan Coen",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b95864f03f2c0164f07f20420002",
+    "externalId": "46229",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Lukasz Piglowski",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b95864f03f2c0164f08271230003",
+    "externalId": "62473",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Roman Yavorskyi",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b95864f03f2c0164f5abf55c0004",
+    "externalId": "46232",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Razvan Ionescu",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b958653e17e10165432c67a80000",
+    "externalId": "74029",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Thomas O'Brien",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b9586630b15f01663faee9430000",
+    "externalId": "38721",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Soumyashree Mishra",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b9586630b15f01663faef29e0001",
+    "externalId": "47540",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Naveen Sahoo",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b95864a900e20164db866ef00007",
+    "externalId": "46858",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Sheila Fernandez",
+    "legalEntityName": "AIB"
+  },
+  {
+    "id": "8ab2b95864a900e20164db8675050008",
+    "externalId": "33821",
+    "legalEntityId": "8ab2b958605b432f01605b443e430001",
+    "fullName": "Robinson Zimmermann",
+    "legalEntityName": "AIB"
+  }
+]

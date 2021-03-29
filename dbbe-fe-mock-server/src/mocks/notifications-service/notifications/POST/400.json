@@ -1,0 +1,12 @@
+{
+  "message": "Bad Request",
+  "errors": [
+    {
+      "message": "Can not send notification",
+      "key": "server_error",
+      "context": {
+        "notification-service": "down"
+      }
+    }
+  ]
+}

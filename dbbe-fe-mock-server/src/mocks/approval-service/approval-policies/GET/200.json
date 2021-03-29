@@ -1,0 +1,42 @@
+{
+  "policies": [
+    {
+      "description": "A basic policy, requires one approval of type 'A' and one of type 'B'.",
+      "id": "6546c424-d3b1-4848-bbda-31cd44ab6915",
+      "items": [
+        {
+          "approvalType": {
+            "description": "1st approval",
+            "id": "748fef85-2a7a-47fa-b016-7cae583a0b79",
+            "name": "A",
+            "rank": 100
+          }
+        },
+        {
+          "approvalType": {
+            "description": "2nd approval",
+            "id": "9c666d9e-92d4-4d8f-9366-a4d3ee336c0c",
+            "name": "B",
+            "rank": 200
+          }
+        }
+      ],
+      "name": "Simple policy"
+    },
+    {
+      "description": "A secondary policy that requires two approvals of the same type: A + A",
+      "id": "5a2d069a-d4c8-43aa-ba93-9069c65458ec",
+      "items": [
+        {
+          "approvalType": {
+            "description": "1st approval",
+            "id": "748fef85-2a7a-47fa-b016-7cae583a0b79",
+            "name": "A",
+            "rank": 100
+          }
+        }
+      ],
+      "name": "Secondary policy"
+    }
+  ]
+}

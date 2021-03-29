@@ -1,0 +1,279 @@
+[
+  {
+    "limit": {
+      "uuid": "4e2b762b-5af0-4bc2-bb37-sdghw4324g",
+      "alias": "",
+      "transactional-limits-bound": {
+        "amount": "100",
+        "consumed": "50"
+      },
+      "periodic-limits-bounds": {
+        "daily": "850"
+      },
+      "currency": "GBP",
+      "entities": [
+        {
+          "eref": "a1198a20-5a40-4eb7-b47f-a553db920429",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false,
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c"
+    },
+    "consumptions": {
+      "daily": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "4e2b762b-5af0-4bc2-bb37-sdghw4324g",
+      "alias": "",
+      "transactional-limits-bound": {
+        "amount": "100",
+        "consumed": "50"
+      },
+      "periodic-limits-bounds": {
+        "daily": "850"
+      },
+      "currency": "GBP",
+      "entities": [
+        {
+          "eref": "1043",
+          "etype": "FUN"
+        },
+        {
+          "eref": "view",
+          "etype": "PRV"
+        },
+        {
+          "eref": "8ab2b95860eb070601614c990d866531",
+          "etype": "FAG"
+        },
+        {
+          "eref": "8ab2b958605b432f01605b443e5b0002",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {
+      "daily": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "da80d859-cddb-4b3e-965f-55f226798546",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "1223",
+        "monthly": "777777"
+      },
+      "transactional-limits-bound": {
+        "amount": "1"
+      },
+      "currency": "EUR",
+      "entities": [
+        {
+          "eref": "8ab2b958605b432f01605b443e5b0002",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {
+      "daily": "0",
+      "monthly": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "da80d859-cddb-4b3e-965f-55f226798546",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "2334",
+        "monthly": "777777"
+      },
+      "transactional-limits-bound": {
+        "amount": "1"
+      },
+      "currency": "EUR",
+      "entities": [
+        {
+          "eref": "8ab2b958605b432f01605b443e5b0002",
+          "etype": "SA"
+        }
+      ],
+      "shadow": true
+    },
+    "consumptions": {
+      "daily": "10",
+      "monthly": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "a67693b2-2a50-4998-907c-a5c820878f17",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "currency": "EUR",
+      "entities": [
+        {
+          "eref": "8ab2b958605b432f01605b444262000a",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {},
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "9c43aaba-c633-418b-a192-195913e2530c",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "0"
+      },
+      "currency": "GBP",
+      "entities": [
+        {
+          "eref": "8ab2b9587058653001709ee43c500349",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {
+      "daily": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "3a644873-7779-4c76-ab5a-d3c97f5797ea",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "100000"
+      },
+      "currency": "GBP",
+      "entities": [
+        {
+          "eref": "8ab2b95872b6d61e01730458778428db",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {
+      "daily": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "e7d4b194-1527-4a59-a603-759ccfabe765",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "99999999"
+      },
+      "transactional-limits-bound": {
+        "amount": "10000"
+      },
+      "currency": "EUR",
+      "entities": [
+        {
+          "eref": "8ab2b958605b432f01605b4443900012",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {
+      "daily": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "e7d4b194-1527-4a59-a603-759ccfabe765",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "99999999"
+      },
+      "transactional-limits-bound": {
+        "amount": "10000"
+      },
+      "currency": "EUR",
+      "entities": [
+        {
+          "eref": "8ab2b958605b432f01605b4443900012",
+          "etype": "SA"
+        }
+      ],
+      "shadow": true
+    },
+    "consumptions": {
+      "daily": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "e323d924-64a4-4c05-8208-4ab41e311ce6",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "0"
+      },
+      "currency": "EUR",
+      "entities": [
+        {
+          "eref": "8ad6815d6977110601697921115707d3",
+          "etype": "SA"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {
+      "daily": "0"
+    },
+    "checkTime": 1607970019411
+  },
+  {
+    "limit": {
+      "uuid": "da80d859-cddb-4b3e-965f-55f226798547",
+      "user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+      "alias": "",
+      "periodic-limits-bounds": {
+        "daily": "1223",
+        "monthly": "777777"
+      },
+      "transactional-limits-bound": {
+        "amount": "1"
+      },
+      "currency": "EUR",
+      "entities": [
+        {
+          "eref": "8ab2b958605b432f01605b443e430001",
+          "etype": "LE"
+        }
+      ],
+      "shadow": false
+    },
+    "consumptions": {
+      "daily": "0",
+      "monthly": "0"
+    },
+    "checkTime": 1607970019411
+  }
+]

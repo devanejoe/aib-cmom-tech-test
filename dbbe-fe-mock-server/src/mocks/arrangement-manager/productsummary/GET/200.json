@@ -1,0 +1,275 @@
+{
+  "currentAccounts": {
+    "name": "Current Accounts",
+    "products": [{
+      "bookedBalance": "435234.54",
+      "availableBalance": "435234.54",
+      "IBAN": "IE28AIBK93110100001630",
+      "BBAN": "00001630",
+      "currency": "EUR",
+      "urgentTransferAllowed": false,
+      "BIC": "AIBKIE20",
+      "bankBranchCode": "931101",
+      "debitCardsItems": [],
+      "accountHolderAddressLine1": "p",
+      "accountHolderAddressLine2": "p",
+      "accountHolderStreetName": "p",
+      "creditAccount": true,
+      "debitAccount": true,
+      "id": "8ab2b958619e464b0161b34f8b6d291a",
+      "name": "DECIMAL JOE'S",
+      "externalTransferAllowed": true,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Current Account",
+      "bankAlias": "DECIMAL JOE'S",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "ROI"
+      }
+    }, {
+      "bookedBalance": "701644741.52",
+      "availableBalance": "701644741.52",
+      "IBAN": "IE86AIBK93110100001556",
+      "BBAN": "00001556",
+      "currency": "EUR",
+      "urgentTransferAllowed": false,
+      "BIC": "AIBKIE20",
+      "bankBranchCode": "931101",
+      "debitCardsItems": [],
+      "accountHolderAddressLine1": "p",
+      "accountHolderAddressLine2": "p",
+      "accountHolderStreetName": "p",
+      "creditAccount": true,
+      "debitAccount": true,
+      "id": "8ab2b958619e464b0161b34f8ca32928",
+      "name": "DECIMAL JOES",
+      "externalTransferAllowed": true,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Current Account",
+      "bankAlias": "DECIMAL JOES",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "ROI"
+      }
+    }, {
+      "bookedBalance": "1001972035.25",
+      "availableBalance": "1001972035.25",
+      "IBAN": "IE58AIBK93101200080079",
+      "BBAN": "00080079",
+      "currency": "EUR",
+      "urgentTransferAllowed": false,
+      "BIC": "AIBKIE20",
+      "bankBranchCode": "931012",
+      "debitCardsItems": [],
+      "accountHolderAddressLine1": "p",
+      "accountHolderAddressLine2": "p",
+      "accountHolderStreetName": "p",
+      "creditAccount": true,
+      "debitAccount": true,
+      "id": "8ab2b958619e464b0161b34f8d30292f",
+      "name": "ORBIT T",
+      "externalTransferAllowed": true,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Current Account",
+      "bankAlias": "ORBIT T",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "ROI"
+      }
+    }, {
+      "IBAN": "GB63FTBK93804115039094",
+      "BBAN": "15039094",
+      "currency": "GBP",
+      "BIC": "FTBKGB2B",
+      "bankBranchCode": "938041",
+      "debitCardsItems": [],
+      "accountHolderName": "DWANE",
+      "accountHolderNames": "DWANE",
+      "accountHolderAddressLine1": "4 QUEEN'S SQUARE",
+      "accountHolderAddressLine2": "BELFAST",
+      "accountHolderStreetName": "NWS",
+      "creditAccount": false,
+      "debitAccount": false,
+      "id": "8ab2b9586fce20ee016fd193638e0086",
+      "name": "DWANE",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Current Account",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "FTB"
+      }
+    }, {
+      "IBAN": "GB24FTBK93804115056189",
+      "BBAN": "15056189",
+      "currency": "GBP",
+      "BIC": "FTBKGB2B",
+      "bankBranchCode": "938041",
+      "debitCardsItems": [],
+      "accountHolderName": "CAS C",
+      "accountHolderNames": "CAS C",
+      "accountHolderAddressLine1": "4 QUEEN'S SQUARE",
+      "accountHolderAddressLine2": "BELFAST",
+      "accountHolderStreetName": "NWS",
+      "creditAccount": false,
+      "debitAccount": false,
+      "id": "8ab2b9586fce20ee016fd19366910087",
+      "name": "CAS C",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Current Account",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "FTB"
+      }
+    }, {
+      "IBAN": "GB02FTBK93804115057070",
+      "BBAN": "15057070",
+      "currency": "GBP",
+      "BIC": "FTBKGB2B",
+      "bankBranchCode": "938041",
+      "debitCardsItems": [],
+      "accountHolderName": "FOX A",
+      "accountHolderNames": "FOX A",
+      "accountHolderAddressLine1": "4 QUEEN'S SQUARE",
+      "accountHolderAddressLine2": "BELFAST",
+      "accountHolderStreetName": "NWS",
+      "creditAccount": false,
+      "debitAccount": false,
+      "id": "8ab2b9586fce20ee016fd1936a490088",
+      "name": "FOX A",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Current Account",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "FTB"
+      }
+    }, {
+      "IBAN": "GB48FTBK93804115061189",
+      "BBAN": "15061189",
+      "currency": "GBP",
+      "BIC": "FTBKGB2B",
+      "bankBranchCode": "938041",
+      "debitCardsItems": [],
+      "accountHolderName": "FFD",
+      "accountHolderNames": "FFD",
+      "accountHolderAddressLine1": "4 QUEEN'S SQUARE",
+      "accountHolderAddressLine2": "BELFAST",
+      "accountHolderStreetName": "NWS",
+      "creditAccount": false,
+      "debitAccount": false,
+      "id": "8ab2b9586fce20ee016fd193700a0089",
+      "name": "FFD",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Current Account",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "FTB"
+      }
+    }]
+  },
+  "savingsAccounts": {
+    "name": "Savings Accounts",
+    "products": []
+  },
+  "termDeposits": {
+    "name": "Term Deposits",
+    "products": [{
+      "IBAN": "GB62FTBK93804120260040",
+      "BBAN": "20260040",
+      "currency": "GBP",
+      "creditAccount": false,
+      "debitAccount": false,
+      "id": "8ab2b9586fc4b6af016fcd489356003d",
+      "name": "WINDOW B",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Term Deposit",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "FTB"
+      }
+    }, {
+      "IBAN": "GB96FTBK93804120591071",
+      "BBAN": "20591071",
+      "currency": "GBP",
+      "creditAccount": false,
+      "debitAccount": false,
+      "id": "8ab2b9586fc4b6af016fcd4995c0003e",
+      "name": "ASD",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Term Deposit",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "FTB"
+      }
+    }, {
+      "IBAN": "IE81AIBK93101216151013",
+      "BBAN": "16151013",
+      "currency": "EUR",
+      "urgentTransferAllowed": false,
+      "creditAccount": false,
+      "debitAccount": false,
+      "id": "8ad6818b66d472360166e9a15d300065",
+      "name": "DOE JOHN",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Term Deposit",
+      "bankAlias": "DOE JOHN",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "ROI"
+      }
+    }]
+  },
+  "loans": {
+    "name": "Loans",
+    "products": [{
+      "bookedBalance": "-10000.00",
+      "currency": "EUR",
+      "urgentTransferAllowed": false,
+      "creditAccount": false,
+      "debitAccount": false,
+      "IBAN": "IE50AIBK93101228951400",
+      "BBAN": "28951400",
+      "id": "8ab2b958619e464b0161b34f8c092921",
+      "name": "TOM ORBIT",
+      "externalTransferAllowed": false,
+      "crossCurrencyAllowed": true,
+      "productKindName": "Loan",
+      "bankAlias": "TOM ORBIT",
+      "visible": true,
+      "subArrangements": [],
+      "additions": {
+        "jurisdiction": "ROI"
+      }
+    }]
+  },
+  "creditCards": {
+    "name": "Credit Cards",
+    "products": []
+  },
+  "debitCards": {
+    "name": "Debit Cards",
+    "products": [],
+    "aggregatedBalance": {}
+  },
+  "investmentAccounts": {
+    "name": "Investment Accounts",
+    "products": []
+  },
+  "customProductKinds": []
+}

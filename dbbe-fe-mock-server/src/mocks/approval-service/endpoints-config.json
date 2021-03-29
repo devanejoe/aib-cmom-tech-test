@@ -1,0 +1,55 @@
+{
+  "name": "Approval Service",
+  "endpoints": [
+    {
+      "title": "Approval Types",
+      "id": "approval-types",
+      "url": "approval-types",
+      "methods": {
+        "GET": {
+          "200": "approval-types/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Approval Type Assignments by id",
+      "id": "approval-type-assignments-id",
+      "url": "approval-type-assignments/8ab2b95860eb070601614c990d866531",
+      "methods": {
+        "GET": {
+          "200": "approval-type-assignments-id/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Approvable Business Functions",
+      "id": "approvable-business-functions",
+      "url": "policy-assignments/approvable-business-functions",
+      "methods": {
+        "GET": {
+          "200": "approvable-business-functions/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Approvals Policies",
+      "id": "approval-policies",
+      "url": "policies",
+      "methods": {
+        "GET": {
+          "200": "approval-policies/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Policy Assignments",
+      "id": "policy-assignments",
+      "url": "policy-assignments",
+      "methods": {
+        "POST": {
+          "204": "policy-assignments/POST/204.json"
+        }
+      }
+    }
+  ]
+}

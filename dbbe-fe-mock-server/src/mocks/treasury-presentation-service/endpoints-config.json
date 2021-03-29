@@ -1,0 +1,15 @@
+{
+  "name": "Treasury Presentation Service",
+  "endpoints": [
+    {
+      "title": "Trades",
+      "id": "trades",
+      "url": "trades",
+      "methods": {
+        "GET": {
+          "200": "trades/GET/200.json"
+        }
+      }
+    }
+  ]
+}

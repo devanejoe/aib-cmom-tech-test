@@ -1,0 +1,251 @@
+[{
+	"resource": "User",
+	"function": "Manage Users",
+	"permissions": {
+		"view": true
+	}
+}, {
+	"resource": "Notifications",
+	"function": "Manage Notifications",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Approvals",
+	"function": "Manage Approval Policy and Level",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Limits",
+	"function": "Manage Shadow Limits",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Entitlements",
+	"function": "Manage Data Groups",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Account Statements",
+	"function": "Manage Statements",
+	"permissions": {
+		"view": true
+	}
+}, {
+	"resource": "Product Summary",
+	"function": "Product Summary",
+	"permissions": {
+		"view": true
+	}
+}, {
+	"resource": "Identities",
+	"function": "Unlock User",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "aib.openbanking",
+	"function": "Open Banking - Payment Files",
+	"permissions": {
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "aib.openbanking",
+	"function": "Manage 3rd Party Consents",
+	"permissions": {
+		"view": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Batch",
+	"function": "Batch - SEPA CT",
+	"permissions": {
+		"cancel": true,
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Payments",
+	"function": "Payment Files",
+	"permissions": {
+		"view": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Legal Entity",
+	"function": "Manage Legal Entities",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Identities",
+	"function": "Lock User",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Service Agreement",
+	"function": "Assign Users",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"create": true
+	}
+}, {
+	"resource": "Payments",
+	"function": "Intra Company Payments",
+	"permissions": {
+		"view": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Payments",
+	"function": "Internal Transfer",
+	"permissions": {
+		"view": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Limits",
+	"function": "Manage Limits",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Entitlements",
+	"function": "Manage Function Groups",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Identities",
+	"function": "Manage Identities",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Payments",
+	"function": "Saved Payee Payment",
+	"permissions": {
+		"view": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Audit",
+	"function": "Audit",
+	"permissions": {
+		"view": true,
+		"create": true
+	}
+}, {
+	"resource": "Support Access",
+	"function": "Support Access for Payments",
+	"permissions": {
+		"view": true
+	}
+}, {
+	"resource": "Service Agreement",
+	"function": "Assign Permissions",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Service Agreement",
+	"function": "Manage Service Agreements",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "User Profiles",
+	"function": "Manage User Profiles",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Limits",
+	"function": "Manage Global Limits",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}, {
+	"resource": "Payments",
+	"function": "New Payee Payment",
+	"permissions": {
+		"view": true,
+		"approve": true,
+		"create": true
+	}
+}, {
+	"resource": "Approvals",
+	"function": "Assign Approval Policies",
+	"permissions": {
+		"view": true,
+		"edit": true,
+		"approve": true,
+		"create": true,
+		"delete": true
+	}
+}]

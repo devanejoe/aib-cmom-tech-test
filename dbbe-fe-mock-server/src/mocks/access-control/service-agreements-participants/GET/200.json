@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a1198a20-5a40-4eb7-b47f-a553db958963",
+    "externalId": "8ad6818b66c46d930166c47c19e4002c",
+    "name": "KPMG",
+    "sharingUsers": true,
+    "sharingAccounts": false
+  },
+  {
+    "id": "a1198a20-5a40-4eb7-b47f-a553db920429",
+    "externalId": "Backbase",
+    "name": "Backbase",
+    "sharingUsers": false,
+    "sharingAccounts": true
+  },
+  {
+    "id": "a1198a20-5a40-4eb7-b47f-a553db958963",
+    "externalId": "AIB",
+    "name": "AIB",
+    "sharingUsers": true,
+    "sharingAccounts": false
+  },
+  {
+    "id": "a1198a20-5a40-4eb7-b47f-a553db920429",
+    "externalId": "Infosys",
+    "name": "Infosys",
+    "sharingUsers": false,
+    "sharingAccounts": true
+  }
+]

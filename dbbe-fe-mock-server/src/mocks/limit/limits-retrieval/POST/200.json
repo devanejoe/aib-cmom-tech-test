@@ -1,0 +1,51 @@
+[
+	{
+		"currency": "EUR",
+		"entities": [
+			{
+				"eref": "8ab2b958605b432f01605b444262000a",
+				"etype": "SA"
+			}
+		],
+		"shadow": false,
+		"user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+		"uuid": "a67693b2-2a50-4998-907c-a5c820878f17",
+		"alias": ""
+	},
+	{
+		"currency": "EUR",
+		"entities": [
+			{
+				"eref": "8ab2b958605b432f01605b443e5b0002",
+				"etype": "SA"
+			}
+		],
+		"shadow": false,
+		"user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+		"uuid": "da80d859-cddb-4b3e-965f-55f226798546",
+		"alias": "",
+		"periodic-limits-bounds": {
+			"daily": "1223"
+		},
+		"transactional-limits-bound": {
+			"amount": "1"
+		}
+	},
+	{
+		"approvalId": "inAproval",
+		"currency": "EUR",
+		"entities": [
+			{
+				"eref": "8ab2b958605b432f01605b4443900012",
+				"etype": "SA"
+			}
+		],
+		"shadow": false,
+		"user-BBID": "8ad6818b66c46d930166c47c19e4002c",
+		"uuid": "03a1eb34-a136-44ad-a933-b081478850a9",
+		"alias": "",
+		"periodic-limits-bounds": {
+			"daily": "11000"
+		}
+	}
+]

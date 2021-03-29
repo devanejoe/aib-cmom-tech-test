@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c7a382786d514262b75ab9531b749a2b",
+    "externalId": "Bank",
+    "name": "My Bank",
+    "type": "BANK"
+  },
+  {
+    "id": "0f6d14f40e064deeaee351befd53d3e7",
+    "externalId": "Backbase Cardiff",
+    "name": "Backbase Cardiff",
+    "type": "CUSTOMER"
+  }
+]

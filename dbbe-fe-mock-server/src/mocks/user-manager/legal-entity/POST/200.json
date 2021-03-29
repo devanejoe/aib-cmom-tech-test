@@ -1,0 +1,90 @@
+{
+  "totalElements": 34,
+  "users": [
+    {
+      "id": "8ab2b958605b432e01605b448b09000c",
+      "externalId": "DBBLA794",
+      "legalEntityId": "8ab2b958605b432f01605b44438f0011",
+      "fullName": "DBB LA2",
+      "additions": {
+        "expiryDate": "2020-07-06T19:08:05.599+01:00"
+      }
+    },
+    {
+      "id": "8ab2b9586f805594016f806709540000",
+      "externalId": "NAVIN28T",
+      "legalEntityId": "8ab2b958605b432f01605b44438f0011",
+      "fullName": "navw sah",
+      "additions": {
+        "expiryDate": "2020-10-06T12:42:20.677+01:00",
+        "mobile": "0890098"
+      }
+    },
+    {
+      "id": "8ab2b958752d43b00175463a8ecc0009",
+      "externalId": "TESTD63L",
+      "legalEntityId": "8ab2b958605b432f01605b44438f0011",
+      "fullName": "Test User",
+      "additions": {
+        "mobile": "0123456789"
+      }
+    },
+    {
+      "id": "8ab2b95875dc96820176190a16f5002e",
+      "externalId": "TESTE05E",
+      "legalEntityId": "8ab2b958605b432f01605b44438f0011",
+      "fullName": "Test User",
+      "additions": {
+        "mobile": "0123456789"
+      }
+    },
+    {
+      "id": "8ab2b95875dc96820176195ca5df0032",
+      "externalId": "TESTE02O",
+      "legalEntityId": "8ab2b958605b432f01605b44438f0011",
+      "fullName": "Test User",
+      "additions": {
+        "mobile": "0123456789"
+      }
+    },
+    {
+      "id": "8ab2b95875dc968201761965008f0033",
+      "externalId": "ACCTI94E",
+      "legalEntityId": "8ab2b958605b432f01605b44438f0011",
+      "fullName": "Test User",
+      "additions": {
+        "mobile": "0123456789"
+      }
+    },
+    {
+      "id": "8ad6815d6e37a940016e3ba4b5410002",
+      "externalId": "CLIAD65K",
+      "legalEntityId": "8ab2b958605b432f01605b444617001d",
+      "fullName": "cfi ad",
+      "additions": {
+        "mobile": "12346855"
+      }
+    },
+    {
+      "id": "8ab2b958605b432e01605b44993d0023",
+      "externalId": "CFIAD140",
+      "legalEntityId": "8ab2b958605b432f01605b444617001d",
+      "fullName": "CFI Admin User 5"
+    },
+    {
+      "id": "8ab2b958605b432e01605b449f3f002c",
+      "externalId": "CFIAD240",
+      "legalEntityId": "8ab2b958605b432f01605b444617001d",
+      "fullName": "CFI USER 12"
+    },
+    {
+      "id": "8ab2b9586fc4ba3c016fc89206ce0006",
+      "externalId": "BOSEE82G",
+      "legalEntityId": "8ab2b958605b432f01605b444617001d",
+      "fullName": "chndra bosee",
+      "additions": {
+        "mobile": "353789790764"
+      }
+    }
+  ]
+}

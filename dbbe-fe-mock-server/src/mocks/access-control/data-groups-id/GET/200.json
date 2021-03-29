@@ -1,0 +1,10 @@
+{
+  "description": "Contains accounts used for paying salaries",
+  "id": "138a7683-e9da-4ffa-a257-b78626790cd7",
+  "items": [
+    "1cdb2224-8926-4b4d-a99f-1c9dfbbb4699"
+  ],
+  "name": "Salaries",
+  "serviceAgreementId": "0889e686d31e4216b3dd5d66163d2b14",
+  "type": "ARRANGEMENTS"
+}

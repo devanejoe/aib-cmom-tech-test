@@ -1,0 +1,156 @@
+{
+  "name": "Arrangement Manager",
+  "endpoints": [
+    {
+      "title": "Account Interest",
+      "id": "account-interest",
+      "url": "accountinterest/history/arrangements/1cdb2224-8926-4b4d-a99f-1c9dfbbb4692",
+      "methods": {
+        "GET": {
+          "200": "account-interest/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Balance History",
+      "id": "accounts-balance-history",
+      "url": "accounts/balance-history/1cdb2224-8926-4b4d-a99f-1c9dfbbb4692",
+      "methods": {
+        "GET": {
+          "200": "accounts/balance-history/GET/200.json",
+          "400": "accounts/balance-history/GET/400.json",
+          "403": "accounts/balance-history/GET/403.json"
+        }
+      }
+    },
+    {
+      "title": "Balance History Arrangement",
+      "id": "accounts-balance-history-arrangement",
+      "url": "accounts/balance-history/arrangement/1cdb2224-8926-4b4d-a99f-1c9dfbbb4692",
+      "methods": {
+        "GET": {
+          "200": "accounts/balance-history/arrangement/GET/200.json",
+          "400": "accounts/balance-history/arrangement/GET/400.json",
+          "403": "accounts/balance-history/arrangement/GET/403.json"
+        }
+      }
+    },
+    {
+      "title": "Arrangements",
+      "id": "arrangements",
+      "url": "arrangements/1cdb2224-8926-4b4d-a99f-1c9dfbbb4692",
+      "methods": {
+        "GET": {
+          "200": "arrangements/1cdb2224-8926-4b4d-a99f-1c9dfbbb4692/GET/200.json",
+          "400": "arrangements/1cdb2224-8926-4b4d-a99f-1c9dfbbb4692/GET/400.json",
+          "403": "arrangements/1cdb2224-8926-4b4d-a99f-1c9dfbbb4692/GET/403.json"
+        }
+      }
+    },
+    {
+      "title": "Arrangements",
+      "id": "arrangements",
+      "url": "arrangements/2d94d333-471d-4cd7-84d2-24e822d5ca68",
+      "methods": {
+        "GET": {
+          "200": "arrangements/2d94d333-471d-4cd7-84d2-24e822d5ca68/GET/200.json",
+          "400": "arrangements/2d94d333-471d-4cd7-84d2-24e822d5ca68/GET/400.json",
+          "403": "arrangements/2d94d333-471d-4cd7-84d2-24e822d5ca68/GET/403.json"
+        }
+      }
+    },
+    {
+      "title": "Linked Arrangements",
+      "id": "arrangements-linked",
+      "url": "arrangements/linked",
+      "methods": {
+        "GET": {
+          "200": "arrangements-linked/GET/200.json",
+          "400": "arrangements-linked/GET/400.json",
+          "403": "arrangements-linked/GET/403.json"
+        }
+      }
+    },
+    {
+      "title": "Unlinked Arrangement",
+      "id": "arrangements-unlink",
+      "url": "arrangements/unlink/ext1/d64c31c4-50e4-11e7-b114-b2f933d5fe66",
+      "methods": {
+        "POST": {
+          "200": "arrangements-unlink/POST/200.json"
+        }
+      }
+    },
+    {
+      "title": "Unlinked Arrangement",
+      "id": "arrangements-link",
+      "url": "arrangements/link/ext1",
+      "methods": {
+        "POST": {
+          "200": "arrangements-link/POST/200.json"
+        }
+      }
+    },
+    {
+      "title": "Link Account",
+      "id": "linkaccount",
+      "url": "linkaccount/8ad6818b66c46d930166c47c19e4002c",
+      "methods": {
+        "POST": {
+          "200": "linkaccount/POST/200.json",
+          "201": "linkaccount/POST/201.json"
+        }
+      }
+    },
+    {
+      "title": "Product Summary",
+      "id": "productsummary",
+      "url": "productsummary",
+      "methods": {
+        "GET": {
+          "200": "productsummary/GET/200.json",
+          "404": "productsummary/GET/404.json"
+        },
+        "PATCH": {
+          "200": "productsummary/GET/200.json",
+          "404": "productsummary/GET/404.json"
+        }
+      }
+    },
+    {
+      "title": "Product Summary Configuration",
+      "id": "productsummary-configuration",
+      "url": "productsummary/configuration",
+      "methods": {
+        "GET": {
+          "200": "productsummary-configuration/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Arrangements User Preferences",
+      "id": "arrangements-user-preferences",
+      "url": "arrangements/user-preferences",
+      "methods": {
+        "GET": {
+          "200": "arrangements-user-preferences/GET/200.json",
+          "404": "arrangements-user-preferences/GET/404.json"
+        },
+        "PATCH": {
+          "200": "arrangements-user-preferences/PATCH/200.json",
+          "404": "arrangements-user-preferences/PATCH/404.json"
+        }
+      }
+    },
+    {
+      "title": "Product Context Arrangements",
+      "id": "productsummary-context-arrangements",
+      "url": "productsummary/context/arrangements",
+      "methods": {
+        "GET": {
+          "200": "context-arrangements/GET/200.json"
+        }
+      }
+    }
+  ]
+}

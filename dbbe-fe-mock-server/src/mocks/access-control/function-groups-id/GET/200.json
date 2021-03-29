@@ -1,0 +1,51 @@
+{
+  "description": "This profile will control managing of entitlements",
+  "id": "00779897-253c-4bbb-b0c7-3c47fd0b0b08",
+  "legalEntityId": "23cdd27f-3546-4f8a-92c5-9a6a5d6451db",
+  "name": "Manage Entitlements",
+  "permissions": [
+    {
+      "assignedPrivileges": [
+        {
+          "privilege": "view"
+        }
+      ],
+      "functionId": "1012"
+    },
+    {
+      "assignedPrivileges": [
+        {
+          "privilege": "view"
+        }
+      ],
+      "functionId": "1011"
+    },
+    {
+      "assignedPrivileges": [
+        {
+          "privilege": "view"
+        }
+      ],
+      "functionId": "1010"
+    },
+    {
+      "assignedPrivileges": [
+        {
+          "privilege": "create"
+        },
+        {
+          "privilege": "view"
+        },
+        {
+          "privilege": "edit"
+        }
+      ],
+      "functionId": "1009"
+    }
+  ],
+  "serviceAgreementId": "51c95177-0d29-43f6-978c-be8c0b9126ab",
+  "validFromDate": "2019-08-16",
+  "validFromTime": "16:43:52",
+  "validUntilDate": "2019-08-23",
+  "validUntilTime": "16:43:52"
+}

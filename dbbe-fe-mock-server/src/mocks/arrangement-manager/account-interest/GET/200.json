@@ -1,0 +1,74 @@
+[
+  {
+    "accountId": "93006719124856",
+    "masterAccountId": "0",
+    "capitalisedAccountId": "IE43AIBK93006719124856",
+    "unclearedItemsDay1": {
+      "amount": 0.00,
+      "currency": "EUR"
+    },
+    "unclearedItemsDay2": {
+      "amount": 0.00,
+      "currency": "EUR"
+    },
+    "unclearedItemsDay3": {
+      "amount": 0.00,
+      "currency": "EUR"
+    },
+    "unclearedItemsDay4": {
+      "amount": 0.00,
+      "currency": "EUR"
+    },
+    "value": [
+      {
+        "type": "Credit",
+        "interestRate": 12.510000,
+        "interestAccrued": {
+          "amount": 11.00,
+          "currency": "EUR"
+        }
+      },
+      {
+        "type": "Negative",
+        "interestRate": 2.150000,
+        "interestAccrued": {
+          "amount": 2.00,
+          "currency": "EUR"
+        }
+      },
+      {
+        "type": "Debit",
+        "interestRate": 2.730000,
+        "interestAccrued": {
+          "amount": 30.00,
+          "currency": "EUR"
+        }
+      },
+      {
+        "type": "Excess",
+        "interestAccrued": {
+          "amount": 0.00,
+          "currency": "EUR"
+        }
+      },
+      {
+        "type": "Set-off",
+        "interestAccrued": {
+          "amount": 0.00,
+          "currency": "EUR"
+        }
+      },
+      {
+        "type": "Uncleared",
+        "interestAccrued": {
+          "amount": 0.00,
+          "currency": "EUR"
+        }
+      }
+    ],
+    "groupAccountNumber": [],
+    "additions": {
+      "accountGroup": "false"
+    }
+  }
+]

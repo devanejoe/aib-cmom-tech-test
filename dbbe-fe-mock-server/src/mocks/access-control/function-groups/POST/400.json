@@ -1,0 +1,9 @@
+{
+  "message": "Bad Request",
+  "errors": [
+    {
+      "message": "Function Group with given name already exists",
+      "key": "functionGroup.save.error.message.E_ALREADY_EXISTS"
+    }
+  ]
+}

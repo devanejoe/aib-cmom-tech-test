@@ -1,0 +1,45 @@
+[
+  {
+    "id": "d3c9379e-31e3-45ca-a9a7-2771c1c8b5ff",
+    "message": "The message has been sent",
+    "level": "INFO",
+    "origin": "Central Admin",
+    "createdOn": "2020-05-02T08:09:27.000+0000",
+    "routing": {
+      "where-to": "conversation-view",
+      "data": {
+        "id": "11-11-11"
+      }
+    }
+  },
+  {
+    "id": "d3c9379e-31e3-45ca-a9a7-2771c1c8b5ff",
+    "title": "Unauthorized",
+    "message": "Full authentication is required to access this resource",
+    "level": "INFO",
+    "origin": "Central Admin ROI",
+    "createdOn": "2020-05-04T08:09:27.000+0000"
+  },
+  {
+    "id": "d3c9379e-31e3-45ca-a9a7-2771c1c8b5ff",
+    "message": "Overdraft Limit has been updated",
+    "level": "INFO",
+    "origin": "Central Admin GB",
+    "createdOn": "2020-05-06T08:09:27.000+0000",
+    "routing": {
+      "where-to": "transaction-view",
+      "data": {
+        "id": "456789123",
+        "arrangementId": "16c89b6a-8d13-447c-a8a5-1ee51a742447"
+      }
+    }
+  },
+  {
+    "id": "d3c9379e-31e3-45ca-a9a7-2771c1c8b5ff",
+    "message": "Recovery email is not set. To set up, please click {{here}}",
+    "link": "https://community.backbase.com/",
+    "level": "INFO",
+    "origin": "Security",
+    "createdOn": "2020-05-08T16:37:59.000+0000"
+  }
+]

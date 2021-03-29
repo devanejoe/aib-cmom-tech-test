@@ -1,0 +1,11 @@
+{
+  "currency-registry": {
+    "defaultCurrency": "EUR",
+    "allowedCurrencyList": [
+      "EUR",
+      "USD",
+      "AED",
+      "GBP"
+    ]
+  }
+}

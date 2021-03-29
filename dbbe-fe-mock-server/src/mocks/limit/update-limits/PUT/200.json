@@ -1,0 +1,13 @@
+{
+  "alias": "Personal Service Agreement Limit",
+  "uuid": "92a2f3c9-4dba-4809-869e-23e14d8dd1a8",
+  "user-BBID": "uuid-user-id",
+  "currency": "EUR",
+  "periodic-limits-bounds": {
+    "daily": "100"
+  },
+  "transactional-limits-bound": {
+    "amount": "31"
+  },
+  "shadow": false
+}

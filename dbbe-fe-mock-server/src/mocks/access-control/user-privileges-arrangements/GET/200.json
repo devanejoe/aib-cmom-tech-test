@@ -1,0 +1,17 @@
+[
+  {
+    "privilege": "create"
+  },
+  {
+    "privilege": "approve"
+  },
+  {
+    "privilege": "edit"
+  },
+  {
+    "privilege": "delete"
+  },
+  {
+    "privilege": "view"
+  }
+]

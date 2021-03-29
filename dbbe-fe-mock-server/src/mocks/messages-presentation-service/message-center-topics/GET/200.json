@@ -1,0 +1,17 @@
+[
+    {
+        "id": "40219526-aa79-4a81-a0a5-ffd12ffed8a3",
+        "code": "40219526-aa79-4a81-a0a5-ffd12ffed8a3",
+        "name": "Mortgage application"
+    },
+    {
+        "id": "b0069a89-3dcb-4bdc-b7da-fc65643064a6",
+        "code": "b0069a89-3dcb-4bdc-b7da-fc65643064a6",
+        "name": "Loans"
+    },
+    {
+        "id": "4fb026ec-62e5-41c8-aa28-149d7544b704",
+        "code": "4fb026ec-62e5-41c8-aa28-149d7544b704",
+        "name": "Problems with making a payment"
+    }
+]

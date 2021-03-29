@@ -1,0 +1,84 @@
+[
+  {
+    "id": "8ab2b958605b432f01605b443e430001",
+    "externalId": "1000",
+    "name": "AIB",
+    "type": "BANK",
+    "isParent": true,
+    "additions": {
+      "jurisdiction": "ROI"
+    }
+  },
+  {
+    "id": "c7a382786d514262b75ab9531b749a2c",
+    "externalId": "1001",
+    "parentId": "8ab2b958605b432f01605b443e430001",
+    "name": "AIB ROI",
+    "type": "BANK",
+    "isParent": false,
+    "additions": {
+      "jurisdiction": "ROI"
+    }
+  },
+  {
+    "id": "c7a382786d514262b75ab9531b749a2d",
+    "externalId": "1003",
+    "parentId": "8ab2b958605b432f01605b443e430001",
+    "name": "AIB GB",
+    "type": "BANK",
+    "isParent": false,
+    "additions": {
+      "jurisdiction": "GB"
+    }
+  },
+  {
+    "id": "c7a382786d514262b75ab9531b749a2e",
+    "externalId": "1002",
+    "parentId": "8ab2b958605b432f01605b443e430001",
+    "name": "AIB FT",
+    "type": "BANK",
+    "isParent": false,
+    "additions": {
+      "jurisdiction": "FTB"
+    }
+  },
+  {
+    "id": "c7a382786d514262b75ab9531b749a2b",
+    "externalId": "Bank",
+    "name": "Bank",
+    "type": "BANK",
+    "isParent": true
+  },
+  {
+    "id": "dbc9e566d44f4cd9a1f09ad3f6729f15",
+    "externalId": "KPMG",
+    "name": "KPMG",
+    "parentId": "c7a382786d514262b75ab9531b749a2b",
+    "type": "CUSTOMER",
+    "isParent": false
+  },
+  {
+    "id": "77f8c4cd11c8436ba77f8ca34e6a173d",
+    "externalId": "Backbase",
+    "name": "Backbase",
+    "parentId": "c7a382786d514262b75ab9531b749a2b",
+    "type": "CUSTOMER",
+    "isParent": true
+  },
+  {
+    "id": "c9fc30f4e5fb492c97ed0a05f926aecc",
+    "externalId": "Backbase Amsterdam",
+    "name": "Backbase Amsterdam",
+    "parentId": "77f8c4cd11c8436ba77f8ca34e6a173d",
+    "type": "CUSTOMER",
+    "isParent": false
+  },
+  {
+    "id": "0f6d14f40e064deeaee351befd53d3e7",
+    "externalId": "Backbase Cardiff",
+    "name": "Backbase Cardiff",
+    "parentId": "77f8c4cd11c8436ba77f8ca34e6a173d",
+    "type": "CUSTOMER",
+    "isParent": false
+  }
+]

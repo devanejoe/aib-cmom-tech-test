@@ -1,0 +1,338 @@
+[
+  {
+    "id": "8ad6818b682e6d7801682f853c7b0009",
+    "name": "AUTOMATION",
+    "bankAlias": "AUTOMATION",
+    "bookedBalance": 41697946.79,
+    "availableBalance": 41697946.79,
+    "IBAN": "IE90AIBK93101247075033",
+    "BBAN": "47075033",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "urgentTransferAllowed": false,
+    "number": "5033",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198",
+      "8ab2b958605b432f01605b44438f0011"
+    ],
+    "productId": "8ab2b958605b0b2201605b44603200fb",
+    "productKindName": "Current Account",
+    "BIC": "AIBKIE20",
+    "bankBranchCode": "931012",
+    "visible": true,
+    "debitCards": [],
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": true,
+    "userPreferences": {
+      "favorite": true
+    },
+    "product": {
+      "externalId": "ROI0040001",
+      "productKind": {
+        "id": 2,
+        "externalKindId": "1",
+        "kindName": "Current Account",
+        "kindUri": "current-account"
+      }
+    },
+    "additions": {
+      "jurisdiction": "ROI"
+    }
+  },
+  {
+    "id": "8ad6818b682e6d7801682f853d04000a",
+    "name": "AUTOMATION",
+    "bankAlias": "AUTOMATION",
+    "bookedBalance": -13.69,
+    "availableBalance": -13.69,
+    "IBAN": "IE96AIBK93101247070075",
+    "BBAN": "47070075",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "urgentTransferAllowed": false,
+    "number": "0075",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198",
+      "8ab2b958605b432f01605b44438f0011"
+    ],
+    "productId": "8ab2b958605b0b2201605b44603200fb",
+    "productKindName": "Current Account",
+    "BIC": "AIBKIE20",
+    "bankBranchCode": "931012",
+    "visible": true,
+    "debitCards": [],
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "userPreferences": {
+      "favorite": false
+    },
+    "product": {
+      "externalId": "ROI0040001",
+      "productKind": {
+        "id": 2,
+        "externalKindId": "1",
+        "kindName": "Current Account",
+        "kindUri": "current-account"
+      }
+    }
+  },
+  {
+    "id": "1cdb2224-8926-4b4d-a99f-1c9dfbbb4692",
+    "name": "DESMOND J",
+    "bankAlias": "DESMOND J Saving for a rainy day account and it is LONG NAME",
+    "bookedBalance": -1774965000.05,
+    "availableBalance": -1774965000.05,
+    "IBAN": "IE06AIBK93129204318575",
+    "BBAN": "04318575",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "urgentTransferAllowed": false,
+    "number": "8575",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198"
+    ],
+    "productId": "8ab2b958605b0b2201605b44603200fb",
+    "productKindName": "Current Account",
+    "BIC": "AIBKIE20",
+    "bankBranchCode": "931292",
+    "visible": true,
+    "debitCards": [],
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "userPreferences": {
+      "favorite": false
+    },
+    "product": {
+      "externalId": "ROI0040001",
+      "productKind": {
+        "id": 2,
+        "externalKindId": "1",
+        "kindName": "Current Account",
+        "kindUri": "current-account"
+      }
+    }
+  },
+  {
+    "id": "2d94d333-471d-4cd7-84d2-24e822d5ca68",
+    "name": "TESTE",
+    "bankAlias": "TESTE",
+    "bookedBalance": -3.43,
+    "availableBalance": -3.43,
+    "IBAN": "IE94AIBK93101260260074",
+    "BBAN": "60260074",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "urgentTransferAllowed": false,
+    "number": "0074",
+    "legalEntityIds": [
+      "8ad6818b67ddf6a50167dfdb624d002e",
+      "8ad6818b682e6f3c01682f8536c60198"
+    ],
+    "productId": "8ab2b958605b0b2201605b44603200fb",
+    "productKindName": "Credit Card",
+    "BIC": "AIBKIE20",
+    "bankBranchCode": "931012",
+    "visible": true,
+    "debitCards": [],
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "product": {
+      "externalId": "ROI0040001",
+      "productKind": {
+        "id": 2,
+        "externalKindId": "1",
+        "kindName": "Credit Card",
+        "kindUri": "current-account"
+      }
+    }
+  },
+  {
+    "id": "8ad6815d6dda3673016df263cd170001",
+    "name": "NADAL R",
+    "bankAlias": "NADAL R",
+    "bookedBalance": 444.56,
+    "availableBalance": 444.56,
+    "IBAN": "IE98AIBK93101256945027",
+    "BBAN": "56945027",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "urgentTransferAllowed": false,
+    "number": "5027",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198"
+    ],
+    "productId": "8ab2b958605b0b2201605b44603200fb",
+    "productKindName": "Current Account",
+    "BIC": "AIBKIE20",
+    "bankBranchCode": "931012",
+    "visible": true,
+    "debitCards": [],
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "product": {
+      "externalId": "ROI0040001",
+      "productKind": {
+        "id": 2,
+        "externalKindId": "1",
+        "kindName": "Current Account",
+        "kindUri": "current-account"
+      }
+    },
+    "additions": {
+      "jurisdiction": "ROI"
+    }
+  },
+  {
+    "id": "8ad6815d6dda3673016df263c3460000",
+    "name": "CAMO",
+    "bankAlias": "CAMO",
+    "bookedBalance": 99683.60,
+    "availableBalance": 99683.60,
+    "IBAN": "IE10AIBK93101260258094",
+    "BBAN": "60258094",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "urgentTransferAllowed": false,
+    "number": "8094",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198"
+    ],
+    "productId": "8ab2b958605b0b2201605b44603200fb",
+    "productKindName": "Current Account",
+    "BIC": "AIBKIE20",
+    "bankBranchCode": "931012",
+    "visible": true,
+    "debitCards": [],
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "product": {
+      "externalId": "ROI0040001",
+      "productKind": {
+        "id": 2,
+        "externalKindId": "1",
+        "kindName": "Current Account",
+        "kindUri": "current-account"
+      }
+    }
+  },
+  {
+    "id": "8ab2bdd67620a363017622e6a8d40001",
+    "name": "DEPOSIT RECEIPT",
+    "bankAlias": "DEPOSIT RECEIPT",
+    "bookedBalance": 1.18,
+    "availableBalance": 1.18,
+    "IBAN": "IE93AIBK93004000087080",
+    "BBAN": "00087080",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "number": "7080",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198"
+    ],
+    "productId": "8ab2b958605b0b2201605b4467f90155",
+    "productKindName": "Term Deposit",
+    "BIC": "AIBKIE2D",
+    "bankBranchCode": "930040",
+    "visible": true,
+    "debitCards": [],
+    "accountHolderAddressLine1": "DUB",
+    "accountHolderStreetName": "BANKCENTRE",
+    "accountHolderName": "DEPOSIT RECEIPT",
+    "accountHolderNames": "DEPOSIT RECEIPT",
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "product": {
+      "externalId": "ROI0060001",
+      "productKind": {
+        "id": 4,
+        "externalKindId": "4",
+        "kindName": "Term Deposit",
+        "kindUri": "term-deposit"
+      }
+    }
+  },
+  {
+    "id": "8ab2b958756b5c0501756dd1d9200000",
+    "name": "OVERDRAFT AA",
+    "bankAlias": "OVERDRAFT AA",
+    "bookedBalance": -1933.40,
+    "availableBalance": -1938.40,
+    "IBAN": "IE25AIBK93004000011189",
+    "BBAN": "00011189",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "number": "1189",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198"
+    ],
+    "productId": "8ab2b958605b0b2201605b446203010f",
+    "productKindName": "Current Account",
+    "BIC": "AIBKIE2D",
+    "bankBranchCode": "930040",
+    "visible": true,
+    "debitCards": [],
+    "accountHolderAddressLine1": "BANKCENTRE",
+    "accountHolderAddressLine2": "DUB",
+    "accountHolderStreetName": "CO SYS TEST",
+    "accountHolderName": "OVERDRAFT AA",
+    "accountHolderNames": "OVERDRAFT AA",
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "product": {
+      "externalId": "ROI0040008",
+      "productKind": {
+        "id": 2,
+        "externalKindId": "1",
+        "kindName": "Current Account",
+        "kindUri": "current-account"
+      }
+    }
+  },
+  {
+    "id": "8ab2b95874faf8e4017502f1e3d3002b",
+    "name": "DEPOSIT",
+    "bankAlias": "DEPOSIT",
+    "bookedBalance": 342.80,
+    "availableBalance": 342.80,
+    "IBAN": "IE24AIBK93004000080077",
+    "BBAN": "00080077",
+    "currency": "EUR",
+    "externalTransferAllowed": true,
+    "number": "0077",
+    "legalEntityIds": [
+      "8ad6818b682e6f3c01682f8536c60198",
+      "8ab2b958605b432f01605b44438f0011"
+    ],
+    "productId": "8ab2b958605b0b2201605b4467f90155",
+    "productKindName": "Term Deposit",
+    "BIC": "AIBKIE2D",
+    "bankBranchCode": "930040",
+    "visible": true,
+    "debitCards": [],
+    "accountHolderAddressLine1": "BALLS BRIDGE",
+    "accountHolderAddressLine2": "GRAND CANAL",
+    "accountHolderStreetName": "BANKCENTRE",
+    "accountHolderName": "DEPOSIT",
+    "accountHolderNames": "DEPOSIT",
+    "creditAccount": true,
+    "debitAccount": true,
+    "favorite": false,
+    "product": {
+      "externalId": "ROI0060001",
+      "productKind": {
+        "id": 4,
+        "externalKindId": "4",
+        "kindName": "Term Deposit",
+        "kindUri": "term-deposit"
+      }
+    }
+  }
+]

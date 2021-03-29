@@ -1,0 +1,415 @@
+{
+  "name": "Access Control",
+  "endpoints": [
+    {
+      "title": "Accessgroups Service Agreements Admins",
+      "id": "accessgroups-serviceagreements-admins",
+      "url": "accessgroups/serviceagreements/8ab2b958605b432f01605b443e5b0002/admins",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/serviceagreements/admins/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Accessgroups Service Agreements Context",
+      "id": "accessgroups-serviceagreements-context",
+      "url": "accessgroups/serviceagreements/context",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/serviceagreements/context/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Accessgroups Service Agreement Details",
+      "id": "accessgroups-serviceagreements-details",
+      "url": "accessgroups/serviceagreements/8ab2b958605b432f01605b443e5b0002",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/serviceagreements/details/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Accessgroups Service Agreements Hierarchy",
+      "id": "accessgroups-service-agreements-hierarchy",
+      "url": "accessgroups/service-agreements/hierarchy",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/service-agreements/hierarchy/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Accessgroups Service Agreement Participants 2",
+      "id": "accessgroups-service-agreements-participants2",
+      "url": "accessgroups/service-agreements/8ab2b958605b432f01605b443e5b0002/participants",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/service-agreements/participants/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Accessgroups Usercontext Serviceagreements",
+      "id": "accessgroups-usercontext-serviceagreements",
+      "url": "accessgroups/usercontext/serviceagreements",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/usercontext/serviceagreements/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Access Groups Data Groups",
+      "id": "data-groups",
+      "url": "accessgroups/data-groups",
+      "methods": {
+        "GET": {
+          "200": "data-groups/GET/200.json"
+        },
+        "POST": {
+          "200": "data-groups/POST/200.json",
+          "400": "data-groups/POST/400.json"
+        }
+      }
+    },
+    {
+      "title": "Access Groups Data Group by Id",
+      "id": "data-groups-id",
+      "url": "accessgroups/data-groups/138a7683-e9da-4ffa-a257-b78626790cd7",
+      "methods": {
+        "GET": {
+          "200": "data-groups-id/GET/200.json"
+        },
+        "PUT": {
+          "200": "data-groups-id/PUT/200.json",
+          "401": "data-groups-id/PUT/401.json"
+        }
+      }
+    },
+    {
+      "title": "Access Groups Function Groups",
+      "id": "function-groups",
+      "url": "accessgroups/function-groups",
+      "methods": {
+        "GET": {
+          "200": "function-groups/GET/200.json"
+        },
+        "POST": {
+          "400": "function-groups/POST/400.json"
+        }
+      }
+    },
+    {
+      "title": "Access Groups Function Group by id",
+      "id": "function-groups-id",
+      "url": "accessgroups/function-groups/00779897-253c-4bbb-b0c7-3c47fd0b0b08",
+      "methods": {
+        "GET": {
+          "200": "function-groups-id/GET/200.json"
+        },
+        "PUT": {
+          "200": "function-groups-id/PUT/200.json",
+          "401": "function-groups-id/PUT/401.json"
+        }
+      }
+    },
+    {
+      "title": "Service Agreement Participants",
+      "id": "service-agreements-participants",
+      "url": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/participants",
+      "methods": {
+        "GET": {
+          "200": "service-agreements-participants/GET/200.json",
+          "400": "service-agreements-participants/GET/400.json"
+        }
+      }
+    },
+    {
+      "title": "User Context",
+      "id": "user-context",
+      "url": "accessgroups/usercontext",
+      "methods": {
+        "POST": {
+          "204": "user-context/POST/204.json"
+        }
+      }
+    },
+    {
+      "title": "User Context Service Agreements",
+      "id": "user-context-service-agreements",
+      "url": "accessgroups/usercontext/serviceagreements",
+      "methods": {
+        "GET": {
+          "200": "user-context/service-agreements/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Permissions Summary",
+      "id": "user-permissions-summary",
+      "url": "accessgroups/users/permissions/summary",
+      "methods": {
+        "GET": {
+          "200": "user-permissions-summary/GET/200.json",
+          "400": "user-permissions-summary/GET/400.json"
+        }
+      }
+    },
+    {
+      "title": "User Permissions List",
+      "id": "user-permissions-list",
+      "url": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Permissions",
+      "id": "user-permissions",
+      "url": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions",
+      "methods": {
+        "GET": {
+          "200": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/GET/200.json",
+          "400": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/GET/400.json",
+          "403": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/GET/403.json",
+          "500": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/GET/500.json"
+        },
+        "PUT": {
+          "200": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/PUT/200.json",
+          "400": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/PUT/400.json",
+          "401": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/PUT/401.json",
+          "403": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/PUT/403.json",
+          "500": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/users/8ad6818b66c46d930166c47c19e4002c/permissions/PUT/500.json"
+        }
+      }
+    },
+    {
+      "title": "Service Agreements Business Functions by context id",
+      "id": "service-agreements-id-business-functions",
+      "url": "accessgroups/service-agreements/a1198a20-5a40-4eb7-b47f-a553db920429/business-functions",
+      "methods": {
+        "GET": {
+          "200": "service-agreements-id-business-functions/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Privileges Arrangements",
+      "id": "user-privileges-arrangements",
+      "url": "accessgroups/users/user-privileges/arrangements/8ab2b958619e464b0161b34f8b6d291a",
+      "methods": {
+        "GET": {
+          "200": "user-privileges-arrangements/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Privileges Arrangements",
+      "id": "user-privileges-arrangements",
+      "url": "accessgroups/users/user-privileges",
+      "methods": {
+        "GET": {
+          "200": "user-privileges-arrangements/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Service Agreements Participants",
+      "id": "service-agreements-participants",
+      "url": "accessgroups/service-agreements/usercontext/participants",
+      "methods": {
+        "GET": {
+          "200": "service-agreements-participants/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Identities",
+      "id": "users-identites",
+      "url": "users/identities",
+      "methods": {
+        "GET": {
+          "200": "users-identities/GET/200.json",
+          "400": "users-identities/GET/400.json",
+          "403": "users-identities/GET/403.json",
+          "500": "users-identities/GET/500.json"
+        },
+        "POST": {
+          "201": "users-identities/POST/201.json"
+        }
+      }
+    },
+    {
+      "title": "User Identity Details",
+      "id": "users-identity-details",
+      "url": "users/8ad6818b66c46d930166c47c19e4002c",
+      "methods": {
+        "GET": {
+          "200": "users/8ad6818b66c46d930166c47c19e4002c/GET/200.json",
+          "400": "users/8ad6818b66c46d930166c47c19e4002c/GET/400.json",
+          "403": "users/8ad6818b66c46d930166c47c19e4002c/GET/403.json",
+          "500": "users/8ad6818b66c46d930166c47c19e4002c/GET/500.json"
+        }
+      }
+    },
+    {
+      "title": "User Identity Details",
+      "id": "users-identity-details",
+      "url": "users/identities/8ad6818b66c46d930166c47c19e4002c",
+      "methods": {
+        "GET": {
+          "200": "users-identity-details/GET/200.json"
+        },
+        "PUT": {
+          "200": "users-identity-details/PUT/200.json",
+          "401": "users-identity-details/PUT/401.json"
+        }
+      }
+    },
+    {
+      "title": "User Identity Details Approvals",
+      "id": "users-identities-id-approvals",
+      "url": "users/identities/00065/approvals",
+      "methods": {
+        "GET": {
+          "200": "users-identities-id-approvals/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Identity Details Approvals 8ad6818b66c46d930166c47c19e4002c",
+      "id": "users-identities-id-approvals-8ad6818b66c46d930166c47c19e4002c",
+      "url": "users/identities/8ad6818b66c46d930166c47c19e4002c/approvals",
+      "methods": {
+        "GET": {
+          "200": "users-identities-8ad6818b66c46d930166c47c19e4002c-approvals/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Identity Details Status",
+      "id": "users-identities-id-status",
+      "url": "users/identities/8ad6818b66c46d930166c47c19e4002c/status",
+      "methods": {
+        "PUT": {
+          "200": "users-identities-id-status/PUT/200.json",
+          "400": "users-identities-id-status/PUT/400.json",
+          "401": "users-identities-id-status/PUT/401.json",
+          "403": "users-identities-id-status/PUT/403.json",
+          "404": "users-identities-id-status/PUT/404.json"
+        }
+      }
+    },
+    {
+      "title": "User Identity - check if exists",
+      "id": "users-identities-existing-external-id",
+      "url": "users/existing/externalId/EEEEE",
+      "methods": {
+        "GET": {
+          "404": "users-identities-existing-external-id/GET/404.json"
+        }
+      }
+    },
+    {
+      "title": "User Me",
+      "id": "users-me",
+      "url": "users/me",
+      "methods": {
+        "GET": {
+          "200": "users-me/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Legal Entities ID",
+      "id": "legal-entities-id",
+      "url": "legalentities/012",
+      "methods": {
+        "GET": {
+          "200": "legal-entities-id/GET/200.json",
+          "400": "legal-entities-id/GET/400.json",
+          "403": "legal-entities-id/GET/403.json"
+        }
+      }
+    },
+    {
+      "title": "User Legalentities Details",
+      "id": "legal-entities",
+      "url": "legalentities/8ad6818b66c46d930166c47c19e4002c",
+      "methods": {
+        "GET": {
+          "200": "legal-entities-id/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "User Legalentities Details - 8ab2b958705865300170afc9480d16b1",
+      "id": "legal-entities-8ab2b958705865300170afc9480d16b1",
+      "url": "legalentities/8ab2b958705865300170afc9480d16b1",
+      "methods": {
+        "GET": {
+          "200": "legal-entities-id/8ab2b958705865300170afc9480d16b1/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Legal Entities",
+      "id": "legal-entities",
+      "url": "legalentities",
+      "methods": {
+        "GET": {
+          "200": "legal-entities/GET/200.json",
+          "400": "legal-entities/GET/400.json",
+          "403": "legal-entities/GET/403.json"
+        }
+      }
+    },
+    {
+      "title": "Legal Entities External ID",
+      "id": "legal-entities-external-id",
+      "url": "legalentities/external/8ad6818b66c46d930166c47c19e4002c",
+      "methods": {
+        "GET": {
+          "200": "legalentities-external-id/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Legal Entities Search",
+      "id": "legal-entities-sub-entities",
+      "url": "legalentities/sub-entities",
+      "methods": {
+        "GET": {
+          "200": "legal-entities-sub-entities/GET/200.json"
+        },
+        "POST": {
+          "200": "legal-entities-sub-entities/GET/200.json"
+        }
+      }
+    },
+    {
+      "title": "Legal Entities Me",
+      "id": "legal-entities-me",
+      "url": "legalentities/me",
+      "methods": {
+        "GET": {
+          "200": "legalentities/me/GET/200.json"
+        }
+      }
+    }, {
+      "title": "Legal Entities External Data",
+      "id": "legal-entities-external-data",
+      "url": "legalentities/external-data",
+      "methods": {
+        "GET": {
+          "200": "legalentities/external-data/GET/200.json"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+	{
+		"externalId": "Bank",
+		"id": "c7a382786d514262b75ab9531b749a2b",
+		"name": "Bank",
+		"type": "BANK",
+		"additions": {
+			"jurisdiction": "ROI"
+		}
+	}
+]

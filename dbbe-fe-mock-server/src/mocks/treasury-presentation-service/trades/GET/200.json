@@ -1,0 +1,688 @@
+{
+  "trades": [{
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517426",
+    "tradeMessageId": "13618319",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "NZD",
+      "toCurrency": "USD",
+      "currencyRate": "0.7058",
+      "amountAibBought": "400,000.00",
+      "amountAibSold": "282,311.00",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517426",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517422",
+    "tradeMessageId": "13618317",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "GBP",
+      "toCurrency": "USD",
+      "currencyRate": "1.3534",
+      "amountAibBought": "450,000.00",
+      "amountAibSold": "609,029.55",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517422",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517427",
+    "tradeMessageId": "13618332",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "USD",
+      "currencyRate": "1.1494",
+      "amountAibBought": "1,500,000.00",
+      "amountAibSold": "1,724,106.00",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517427",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517423",
+    "tradeMessageId": "13618316",
+    "tradeDate": "2021-01-26",
+    "status": "Confirmed",
+    "confirmedDate": "2021-01-27",
+    "confirmedBy": "HZUSR230",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "AUD",
+      "toCurrency": "USD",
+      "currencyRate": "0.7600",
+      "amountAibBought": "400,000.00",
+      "amountAibSold": "303,992.44",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517423",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517428",
+    "tradeMessageId": "13618330",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "USD",
+      "currencyRate": "1.0901",
+      "amountAibBought": "2,000,000.00",
+      "amountAibSold": "2,180,224.00",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517428",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517429",
+    "tradeMessageId": "13618329",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "GBP",
+      "toCurrency": "USD",
+      "currencyRate": "1.3061",
+      "amountAibBought": "400,000.00",
+      "amountAibSold": "522,456.00",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517429",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517430",
+    "tradeMessageId": "13618331",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "USD",
+      "currencyRate": "1.2183",
+      "amountAibBought": "2,000,000.00",
+      "amountAibSold": "2,436,596.00",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517430",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517334",
+    "tradeMessageId": "13618003",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8885",
+      "amountAibBought": "74,865,658.33",
+      "amountAibSold": "66,516,041.19",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517334",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517335",
+    "tradeMessageId": "13618009",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8781",
+      "amountAibBought": "99,824,625.00",
+      "amountAibSold": "87,651,211.63",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517335",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517333",
+    "tradeMessageId": "13618006",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8883",
+      "amountAibBought": "74,900,245.83",
+      "amountAibSold": "66,531,491.56",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517333",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517336",
+    "tradeMessageId": "13618005",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8885",
+      "amountAibBought": "74,900,245.83",
+      "amountAibSold": "66,546,022.21",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517336",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517337",
+    "tradeMessageId": "13618010",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.9022",
+      "amountAibBought": "100,000.00",
+      "amountAibSold": "90,220.00",
+      "instrumentId": "NA",
+      "UTI": "UTI|61N57ORAEPCALYFX20210126D00000014517337",
+      "mifidBuyerIndicator": "AIB GROUP (UK) PLC, TRADING UNDER LICENCE AS AIB (NI)",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517338",
+    "tradeMessageId": "13618007",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8877",
+      "amountAibBought": "74,874,568.75",
+      "amountAibSold": "66,468,326.04",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517338",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517339",
+    "tradeMessageId": "13618008",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8859",
+      "amountAibBought": "74,893,537.50",
+      "amountAibSold": "66,349,405.64",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517339",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517340",
+    "tradeMessageId": "13618011",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8829",
+      "amountAibBought": "74,912,683.33",
+      "amountAibSold": "66,140,887.55",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517340",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517341",
+    "tradeMessageId": "13618004",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8863",
+      "amountAibBought": "74,893,537.50",
+      "amountAibSold": "66,375,251.40",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517341",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517342",
+    "tradeMessageId": "13618021",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8832",
+      "amountAibBought": "74,912,683.33",
+      "amountAibSold": "66,163,705.96",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517342",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517343",
+    "tradeMessageId": "13618023",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8842",
+      "amountAibBought": "74,922,100.00",
+      "amountAibSold": "66,247,469.42",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517343",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517344",
+    "tradeMessageId": "13618025",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8827",
+      "amountAibBought": "74,891,625.00",
+      "amountAibSold": "66,110,207.51",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517344",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517345",
+    "tradeMessageId": "13618026",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8863",
+      "amountAibBought": "74,896,883.33",
+      "amountAibSold": "66,380,134.04",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517345",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517346",
+    "tradeMessageId": "13618028",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8817",
+      "amountAibBought": "74,897,266.67",
+      "amountAibSold": "66,040,065.71",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517346",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517347",
+    "tradeMessageId": "13618031",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8876",
+      "amountAibBought": "74,938,475.00",
+      "amountAibSold": "66,514,641.03",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517347",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517348",
+    "tradeMessageId": "13618032",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8876",
+      "amountAibBought": "74,938,475.00",
+      "amountAibSold": "66,515,015.72",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517348",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517349",
+    "tradeMessageId": "13618036",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8917",
+      "amountAibBought": "74,887,572.92",
+      "amountAibSold": "66,775,900.80",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517349",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }, {
+    "legalEntityId": "8ab2b958735862e201735b026e500130",
+    "legalEntityName": "Horizon Client SA 1",
+    "customerId": "104035",
+    "tradeRef": "14517350",
+    "tradeMessageId": "13618038",
+    "tradeDate": "2021-01-26",
+    "status": "Unconfirmed",
+    "product": "FX Forward",
+    "counterParty": "Horizon Client SA 1",
+    "transactionMargin": {
+      "percentage": "0.0000",
+      "currency": "EUR"
+    },
+    "venueId": "XOFF",
+    "legs": [{
+      "settlementDate": "2021-02-03",
+      "fromCurrency": "EUR",
+      "toCurrency": "GBP",
+      "currencyRate": "0.8885",
+      "amountAibBought": "74,922,365.25",
+      "amountAibSold": "66,565,674.47",
+      "instrumentId": "NA",
+      "UTI": "UTI|YX2VMUHH7ZCALYFX20210126D00000014517350",
+      "mifidBuyerIndicator": "ALLIED IRISH BANKS PLC - DUBLIN BRANCH",
+      "mifidSellerIndicator": "Horizon Client SA 1"
+    }]
+  }],
+  "pagination": {
+    "page": 0,
+    "size": 25,
+    "totalElements": 138,
+    "totalPages": 6,
+    "first": true,
+    "last": false
+  }
+}

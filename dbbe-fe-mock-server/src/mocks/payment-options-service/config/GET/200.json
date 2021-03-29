@@ -1,0 +1,14 @@
+{
+  "fxServerUrl": {
+    "ROI": "http://localhost:3000",
+    "GB": "http://localhost:3000",
+    "FT": "http://localhost:3000",
+    "FTB": "http://localhost:3000"
+  },
+  "disclaimerMarkup": {
+    "ROI": "1.4",
+    "GB": "1.4",
+    "FT": "1.4",
+    "FTB": "1.4"
+  }
+}
