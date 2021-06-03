@@ -1,9 +1,0 @@
-{
-  "message": "Access is denied",
-  "errors": [
-    {
-      "message": "Access is denied",
-      "key": "user.check.permissions.ACCESS_DENIED"
-    }
-  ]
-}

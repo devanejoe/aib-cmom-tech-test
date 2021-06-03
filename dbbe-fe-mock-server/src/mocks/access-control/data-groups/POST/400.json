@@ -1,9 +1,0 @@
-{
-  "message": "Bad Request",
-  "errors": [
-    {
-      "message": "Data Access Group with given name already exists",
-      "key": "dataAccessGroup.save.error.message.E_ALREADY_EXISTS"
-    }
-  ]
-}

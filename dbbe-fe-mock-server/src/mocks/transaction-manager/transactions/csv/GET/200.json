@@ -1,1 +1,0 @@
-"Id,Description,Type,Booking Date,Amount,Currency,Counter Party Name,Notes\nTRAN00000000000001,\"Meal @ Burger King\",SEPA CT,2016-02-28,10.29,EUR,AF Chagal,\"NOTES\"\nTRAN00000000000002,\"Train Fare\",SEPA CT,2016-02-28,-123.2,EUR,AF Chagal,\"NOTES\"\nTRAN00000000000003,\"Train Fare\",SEPA CT,2016-02-28,123.2,EUR,AF Chagal,\"NOTES\"\n"
